@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AWS.iml" filepath="$PROJECT_DIR$/.idea/AWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prolaz/prolaz.iml" filepath="$PROJECT_DIR$/prolaz/prolaz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servis/servis.iml" filepath="$PROJECT_DIR$/servis/servis.iml" />
+    </modules>
+  </component>
+</project>
